@@ -1,0 +1,6 @@
+{
+  "name": "Dungeon Fighter: Arad Chronicles",
+  "description": "A 2D dark-fantasy Dungeon Fighter action platformer featuring the Slayer (鬼剑士) with 5 Job Awakenings, 10 Gothic Dungeons across 4 Arad realms (Grand Flores, Underfoot, Behemoth, Sky Tower), and 4 Legendary Dungeon Bosses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
